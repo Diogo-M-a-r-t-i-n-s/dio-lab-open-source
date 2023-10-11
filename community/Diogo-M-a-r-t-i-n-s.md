@@ -2,6 +2,8 @@
 
     <p>Olá a todos! Meu nome é Diogo Martins e estou empolgado em compartilhar um pouco sobre mim e minha jornada na área de Análise e Desenvolvimento. Se você quiser saber mais sobre mim e acompanhar meu progresso, você pode conferir meu perfil no GitHub <a href="https://github.com/Diogo-M-a-r-t-i-n-s">aqui</a>.</p>
 
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diogo-M-a-r-t-i-n-s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
     <h2>Sobre Mim</h2>
     <ul>
         <li><strong>Nome:</strong> Diogo Martins</li>
@@ -23,6 +25,8 @@
     <p>Estou determinado a aprimorar minhas habilidades e contribuir para a comunidade de tecnologia. Se você tiver conselhos, projetos interessantes ou oportunidades de colaboração, não hesite em entrar em contato comigo através do GitHub.</p>
 
     <p>Vou continuar a minha jornada de aprendizado e estou ansioso para o que o futuro reserva na área de Análise e Desenvolvimento. Obrigado por me receber nesta comunidade!</p>
+
+    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogo-M-a-r-t-i-n-s&repo=[SEUREPOSITORIO](https://github.com/Diogo-M-a-r-t-i-n-s/dio-lab-open-source.git)&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
     <footer>
          <img align="right" alt="https://avatars.githubusercontent.com/u/147454716?v=4">
